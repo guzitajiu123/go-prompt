@@ -1,0 +1,25 @@
+{
+  "name": "@guzitajiu123/go-prompt",
+  "version": "1.0.0",
+  "description": "test github package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/guzitajiu123/go-prompt.git"
+  },
+  "keywords": [
+    "go-prompt"
+  ],
+  "author": "guzitajiu123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guzitajiu123/go-prompt/issues"
+  },
+  "homepage": "https://github.com/guzitajiu123/go-prompt#readme",
+  "publishConfig": {
+    "@guzitajiu123:registry": "https://npm.pkg.github.com"
+  }
+}
