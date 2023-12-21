@@ -1,5 +1,5 @@
 {
-  "name": "@stanley/go-prompt",
+  "name": "@guzitajiu123/go-prompt",
   "version": "1.0.0",
   "description": "test github package",
   "main": "index.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guzitajiu123/go-prompt.git"
+    "url": "https://github.com/guzitajiu123/go-prompt.git"
   },
   "keywords": [
     "go-prompt"
   ],
-  "author": "stanley",
+  "author": "guzitajiu123",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/guzitajiu123/go-prompt/issues"
   },
   "homepage": "https://github.com/guzitajiu123/go-prompt#readme",
   "publishConfig": {
-    "@stanley:registry": "https://npm.pkg.github.com"
+    "@guzitajiu123:registry": "https://npm.pkg.github.com"
   }
 }
